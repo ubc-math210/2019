@@ -8,3 +8,4 @@ MATH 210 at the [University of British Columbia](http://www.math.ubc.ca) is an i
 | :---: | :---: | :---: | :--- |
 | September 4 | [notes-2019-09-04](notes-week-01/notes-2019-09-04.ipynb) | Jupyter notebooks | [Jupyter](http://www.math.ubc.ca/~pwalls/math-python/jupyter/notebook/) |
 | September 6 | [notes-2019-09-06](notes-week-01/notes-2019-09-06.ipynb) | Markdown and LaTeX | [Markdown](http://www.math.ubc.ca/~pwalls/math-python/jupyter/markdown/) and [LaTeX](http://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/) |
+| September 9 | [notes-2019-09-09](notes-week-02/notes-2019-09-09.ipynb) | LaTeX, Numeric Types | [Numeric Types](http://www.math.ubc.ca/~pwalls/math-python/python/numbers/) |
