@@ -15,3 +15,4 @@
 | September 6 | [notes-2019-09-06](notes-week-01/notes-2019-09-06.ipynb) | Markdown and LaTeX | [Markdown](http://www.math.ubc.ca/~pwalls/math-python/jupyter/markdown/) and [LaTeX](http://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/) |
 | September 9 | [notes-2019-09-09](notes-week-02/notes-2019-09-09.ipynb) | LaTeX, Numeric Types | [Numeric Types](http://www.math.ubc.ca/~pwalls/math-python/python/numbers/) |
 | September 11 | [notes-2019-09-11](notes-week-02/notes-2019-09-11.ipynb) | Sequence Types | [Variables](http://www.math.ubc.ca/~pwalls/math-python/python/variables/) and [Sequence Types](http://www.math.ubc.ca/~pwalls/math-python/python/sequences/) |
+| September 13 | [notes-2019-09-13](notes-week-02/notes-2019-09-13.ipynb) | List comprehensions and functions | [Sequences](http://www.math.ubc.ca/~pwalls/math-python/python/sequences/) and [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
