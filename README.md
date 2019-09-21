@@ -18,3 +18,4 @@
 | September 13 | [notes-2019-09-13](notes-week-02/notes-2019-09-13.ipynb) | List comprehensions and functions | [Sequences](http://www.math.ubc.ca/~pwalls/math-python/python/sequences/) and [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
 | September 16 | [notes-2019-09-16](notes-week-03/notes-2019-09-16.ipynb) | Defining functions | [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
 | September 18 | [notes-2019-09-18](notes-week-03/notes-2019-09-18.ipynb) | Boolean values and `if` statements | [Logic](http://www.math.ubc.ca/~pwalls/math-python/python/logic/) |
+| September 20 | [notes-2019-09-20](notes-week-03/notes-2019-09-20.ipynb) | Loops | [Loops](http://www.math.ubc.ca/~pwalls/math-python/python/loops/) |
