@@ -20,3 +20,4 @@
 | September 18 | [notes-2019-09-18](notes-week-03/notes-2019-09-18.ipynb) | Boolean values and `if` statements | [Logic](http://www.math.ubc.ca/~pwalls/math-python/python/logic/) |
 | September 20 | [notes-2019-09-20](notes-week-03/notes-2019-09-20.ipynb) | Loops | [Loops](http://www.math.ubc.ca/~pwalls/math-python/python/loops/) |
 | September 23 | [notes-2019-09-23](notes-week-04/notes-2019-09-23.ipynb) | Bisection method | [Root finding](http://www.math.ubc.ca/~pwalls/math-python/roots-optimization/root-finding/) and [Bisection method](http://www.math.ubc.ca/~pwalls/math-python/roots-optimization/bisection/) |
+| September 25 | [notes-2019-09-25](notes-week-04/notes-2019-09-25.ipynb) | Secant method | [Secant method](http://www.math.ubc.ca/~pwalls/math-python/roots-optimization/secant/) |
