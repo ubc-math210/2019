@@ -23,3 +23,4 @@
 | September 25 | [notes-2019-09-25](notes-week-04/notes-2019-09-25.ipynb) | Secant method | [Secant method](http://www.math.ubc.ca/~pwalls/math-python/roots-optimization/secant/) |
 | September 30 | [notes-2019-09-30](notes-week-05/notes-2019-09-30.ipynb) | Newton's method | [Newton's method](http://www.math.ubc.ca/~pwalls/math-python/roots-optimization/newton/) |
 | October 2 | [notes-2019-10-02](notes-week-05/notes-2019-10-02.ipynb) | Python packages | [NumPy](http://www.math.ubc.ca/~pwalls/math-python/scipy/numpy/) and [Matplotlib](http://www.math.ubc.ca/~pwalls/math-python/scipy/matplotlib/) |
+| October 4 | [notes-2019-10-04](notes-week-05/notes-2019-10-04.ipynb) | NumPy arrays and plotting | [NumPy](http://www.math.ubc.ca/~pwalls/math-python/scipy/numpy/) and [Matplotlib](http://www.math.ubc.ca/~pwalls/math-python/scipy/matplotlib/) |
