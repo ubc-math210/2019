@@ -26,3 +26,4 @@
 | October 4 | [notes-2019-10-04](notes-week-05/notes-2019-10-04.ipynb) | NumPy arrays and plotting | [NumPy](http://www.math.ubc.ca/~pwalls/math-python/scipy/numpy/) and [Matplotlib](http://www.math.ubc.ca/~pwalls/math-python/scipy/matplotlib/) |
 | October 7 | [notes-2019-10-07](notes-week-06/notes-2019-10-07.ipynb) | Riemann sums | [Definite integrals](http://www.math.ubc.ca/~pwalls/math-python/integration/integrals/) and [Riemann sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
 | October 9 | [notes-2019-10-09](notes-week-06/notes-2019-10-09.ipynb) | Error formulas for Riemann sums | [Riemann sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
+| October 11 | [notes-2019-10-09](notes-week-06/notes-2019-10-11.ipynb) | Error formulas for trapezoid rule | [Trapezoid rule](http://www.math.ubc.ca/~pwalls/math-python/integration/trapezoid-rule/) |
