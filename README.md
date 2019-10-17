@@ -27,3 +27,4 @@
 | October 7 | [notes-2019-10-07](notes-week-06/notes-2019-10-07.ipynb) | Riemann sums | [Definite integrals](http://www.math.ubc.ca/~pwalls/math-python/integration/integrals/) and [Riemann sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
 | October 9 | [notes-2019-10-09](notes-week-06/notes-2019-10-09.ipynb) | Error formulas for Riemann sums | [Riemann sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
 | October 11 | [notes-2019-10-09](notes-week-06/notes-2019-10-11.ipynb) | Error formulas for trapezoid rule | [Trapezoid rule](http://www.math.ubc.ca/~pwalls/math-python/integration/trapezoid-rule/) |
+| October 16 | [notes-2019-10-16](notes-week-07/notes-2019-10-16.ipynb) | Examples and SciPy | [Trapezoid rule](http://www.math.ubc.ca/~pwalls/math-python/integration/trapezoid-rule/) |
