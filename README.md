@@ -28,3 +28,7 @@
 | October 9 | [notes-2019-10-09](notes-week-06/notes-2019-10-09.ipynb) | Error formulas for Riemann sums | [Riemann sums](http://www.math.ubc.ca/~pwalls/math-python/integration/riemann-sums/) |
 | October 11 | [notes-2019-10-09](notes-week-06/notes-2019-10-11.ipynb) | Error formulas for trapezoid rule | [Trapezoid rule](http://www.math.ubc.ca/~pwalls/math-python/integration/trapezoid-rule/) |
 | October 16 | [notes-2019-10-16](notes-week-07/notes-2019-10-16.ipynb) | Examples and SciPy | [Trapezoid rule](http://www.math.ubc.ca/~pwalls/math-python/integration/trapezoid-rule/) |
+| October 18 | - | Simpson's Rule | [Simpson's rule](http://www.math.ubc.ca/~pwalls/math-python/integration/simpsons-rule/) |
+| October 21 | [notes-2019-10-21](notes-week-08/notes-2019-10-21.ipynb) | Difference formulas and examples | [Numerical differentiation](http://www.math.ubc.ca/~pwalls/math-python/differentiation/differentiation/) |
+| October 25 | [notes-2019-10-25](notes-week-08/notes-2019-10-25.ipynb) | Arc length and Taylor polynomials | [Numerical differentiation](http://www.math.ubc.ca/~pwalls/math-python/differentiation/differentiation/) |
+| October 28 | [notes-2019-10-28](notes-week-09/notes-2019-10-28.ipynb) | Linear algebra with SciPy | [Linear algebra with SciPy](http://www.math.ubc.ca/~pwalls/math-python/linear-algebra/linear-algebra-scipy/) |
