@@ -32,3 +32,7 @@
 | October 21 | [notes-2019-10-21](notes-week-08/notes-2019-10-21.ipynb) | Difference formulas and examples | [Numerical differentiation](http://www.math.ubc.ca/~pwalls/math-python/differentiation/differentiation/) |
 | October 25 | [notes-2019-10-25](notes-week-08/notes-2019-10-25.ipynb) | Arc length and Taylor polynomials | [Numerical differentiation](http://www.math.ubc.ca/~pwalls/math-python/differentiation/differentiation/) |
 | October 28 | [notes-2019-10-28](notes-week-09/notes-2019-10-28.ipynb) | Linear algebra with SciPy | [Linear algebra with SciPy](http://www.math.ubc.ca/~pwalls/math-python/linear-algebra/linear-algebra-scipy/) |
+| October 30 | [notes-2019-10-30](notes-week-09/notes-2019-10-30.ipynb) | Systems of equations | [Systems of equations](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/solving-linear-systems/) |
+| November 1 | [notes-2019-11-01](notes-week-09/notes-2019-11-01.ipynb) | Interpolation and regression | [Applications](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/applications/) |
+| November 4 | [notes-2019-11-04](notes-week-10/notes-2019-11-04.ipynb) | Eigenvalues and eigenvectors | [Eigenvalues and Eigenvectors](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/eigenvalues-eigenvectors/) |
+| November 6 | [notes-2019-11-06](notes-week-10/notes-2019-11-06.ipynb) | Diagonalization | [Eigenvalues and Eigenvectors](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/eigenvalues-eigenvectors/) |
