@@ -36,4 +36,4 @@
 | November 1 | [notes-2019-11-01](notes-week-09/notes-2019-11-01.ipynb) | Interpolation and regression | [Applications](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/applications/) |
 | November 4 | [notes-2019-11-04](notes-week-10/notes-2019-11-04.ipynb) | Eigenvalues and eigenvectors | [Eigenvalues and Eigenvectors](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/eigenvalues-eigenvectors/) |
 | November 6 | [notes-2019-11-06](notes-week-10/notes-2019-11-06.ipynb) | Diagonalization | [Eigenvalues and Eigenvectors](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/eigenvalues-eigenvectors/) |
-| November 8 | [notes-2019-11-08](notes-week-10/notes-2019-11-08.ipynb) | Simple undirect graphs | [Applications]([Applications](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/applications/) |
+| November 8 | [notes-2019-11-08](notes-week-10/notes-2019-11-08.ipynb) | Simple undirect graphs | [Applications](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/applications/) |
