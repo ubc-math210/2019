@@ -38,3 +38,5 @@
 | November 6 | [notes-2019-11-06](notes-week-10/notes-2019-11-06.ipynb) | Diagonalization | [Eigenvalues and Eigenvectors](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/eigenvalues-eigenvectors/) |
 | November 8 | [notes-2019-11-08](notes-week-10/notes-2019-11-08.ipynb) | Simple undirect graphs | [Applications](https://www.math.ubc.ca/~pwalls/math-python/linear-algebra/applications/) |
 | November 13 | [notes-2019-11-13](notes-week-11/notes-2019-11-13.ipynb) | Intro to DEs and slope fields | [First order equations](https://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
+| November 15 | [notes-2019-11-15](notes-week-11/notes-2019-11-15.ipynb) | Euler's method | [First order equations](https://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
+| November 18 | [notes-2019-11-18](notes-week-12/notes-2019-11-18.ipynb) | Improved Euler's method | [First order equations](https://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
