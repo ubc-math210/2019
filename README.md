@@ -40,3 +40,4 @@
 | November 13 | [notes-2019-11-13](notes-week-11/notes-2019-11-13.ipynb) | Intro to DEs and slope fields | [First order equations](https://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
 | November 15 | [notes-2019-11-15](notes-week-11/notes-2019-11-15.ipynb) | Euler's method | [First order equations](https://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
 | November 18 | [notes-2019-11-18](notes-week-12/notes-2019-11-18.ipynb) | Improved Euler's method | [First order equations](https://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
+| November 18 | [notes-2019-11-20](notes-week-12/notes-2019-11-20.ipynb) | Second order equations | - |
