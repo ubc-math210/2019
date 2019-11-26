@@ -42,3 +42,4 @@
 | November 18 | [notes-2019-11-18](notes-week-12/notes-2019-11-18.ipynb) | Improved Euler's method | [First order equations](https://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
 | November 20 | [notes-2019-11-20](notes-week-12/notes-2019-11-20.ipynb) | Second order equations | - |
 | November 22 | [notes-2019-11-22](notes-week-12/notes-2019-11-22.ipynb) | `scipy.odeint` | - |
+| November 25 | [notes-2019-11-25](notes-week-13/notes-2019-11-25.ipynb) | Euler's 3-body problem | - |
